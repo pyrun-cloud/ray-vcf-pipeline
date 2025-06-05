@@ -22,7 +22,6 @@ dependencies:
   - rasterio
 
   - pip:
-    - $LITHOPS
     - ray
     - scikit-learn
     - cloud-dataplug
